@@ -7,6 +7,7 @@
  ### To run application by this Command in terminal : ng serve
   ### To run backend json file by command in terminal : json-server -w data/db.json -p 8089 -H 0.0.0.0
   ### For generate JWT use this websit : https://jwt.io/
+  ### To create a new component run it by this command : ng g c  "name of component"
   
 ------------
 ## Login page : 
