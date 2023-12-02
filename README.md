@@ -49,6 +49,22 @@
 
 ![image](https://github.com/hayatelallaouy01/Angular-application/assets/123452386/b5d115e7-6176-4ea1-a985-f5d9b9f79631)
 
+### USER 1 HOME Page 
+
+![image](https://github.com/hayatelallaouy01/Angular-application/assets/123452386/dcd748a8-dad6-435e-aace-fe30b0ddb058)
+
+### products Page 
+
+![image](https://github.com/hayatelallaouy01/Angular-application/assets/123452386/7a05a5e0-f587-4e3c-88ee-3790f0ebe978)
+
+### New Products page is Not authorized 
+
+![image](https://github.com/hayatelallaouy01/Angular-application/assets/123452386/e5367c2e-3187-493c-9d4d-90fb00de477e)
+
+
+
+
+
 
 
 
