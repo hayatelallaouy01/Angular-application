@@ -10,9 +10,43 @@
   
 ------------
 ## login page : 
-### Link : 
+### Link : https://github.com/hayatelallaouy01/Angular-application/tree/master/emsi-application/src/app/login
 #### localhost:4200/login
 #### ADMIN 
+
 ![image](https://github.com/hayatelallaouy01/Angular-application/assets/123452386/59350e70-d01e-40f2-95b6-849c20a03d58)
+
+### Home page 
+### Link :
+#### localhost:4200/admin
+
+![image](https://github.com/hayatelallaouy01/Angular-application/assets/123452386/2fbc9c65-6772-469d-8a1c-735f27507d35)
+
+### Products Page 
+### Link : 
+#### localhost:4200/admin/products
+
+![image](https://github.com/hayatelallaouy01/Angular-application/assets/123452386/0f0830d2-15df-4d8c-a4a2-7595d53d2a19)
+
+### New product Page 
+### Link 
+#### localhost:4200/admin/newProduct
+
+![image](https://github.com/hayatelallaouy01/Angular-application/assets/123452386/b716317e-bfa7-426f-ae83-e0bfc71eec4f)
+
+![image](https://github.com/hayatelallaouy01/Angular-application/assets/123452386/96d9d6a1-86aa-48f8-83bd-2e4690bad4d9)
+
+![image](https://github.com/hayatelallaouy01/Angular-application/assets/123452386/cc5468b3-0561-4ca8-aad3-179c52d97dd2)
+
+### Edit Product Page 
+### link :
+#### localhost:4200/admin/editProduct/17
+
+![image](https://github.com/hayatelallaouy01/Angular-application/assets/123452386/9c128426-705f-4a4c-8847-c5143bc33160)
+
+
+
+
+
 
 
