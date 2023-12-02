@@ -1,6 +1,6 @@
 # Angular Application : Emsi APP 
 -----------------------------------
-## application stricture 
+## Application stricture 
 
 ![image](https://github.com/hayatelallaouy01/Angular-application/assets/123452386/6c704480-2767-478a-97ae-b0111ef98087)
 
@@ -9,7 +9,7 @@
   ### For generate JWT use this websit : https://jwt.io/
   
 ------------
-## login page : 
+## Login page : 
 #### Link : https://github.com/hayatelallaouy01/Angular-application/tree/master/emsi-application/src/app/login
 #### localhost:4200/login
 #### ADMIN 
